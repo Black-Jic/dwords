@@ -1,0 +1,1 @@
+import{a2 as t,p as e,q as o,B as s}from"./index.8188bd29.js";const a={setup(){return{}}},c={class:"about"},n=s("h3",null,"about",-1),r=[n];function _(p,u,d,i,l,f){return e(),o("div",c,r)}const m=t(a,[["render",_]]);export{m as default};
